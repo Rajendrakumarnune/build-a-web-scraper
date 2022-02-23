@@ -13,5 +13,4 @@ The notebooks 04-05 contain tasks to work on individually for each learner to ke
 - **Tasks** `04_pipeline.ipynb`
 - **Solution** `05_pipeline_solution.ipynb`
 
-Attempt to build out your individual pipeline by yourself and use the solution document only if you get stuck. All the best, and keep learning! :)
-"# build-a-web-scraper" 
+
